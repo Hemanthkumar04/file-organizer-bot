@@ -23,6 +23,8 @@ A Python-based application that automatically organizes files in a specified fol
 
 ## 🚀 How to Run
 
+### For Developers (Testing and Contributing)
+
 1.  **Clone the repository:**
     ```bash
     git clone [https://github.com/hk843/file-organizer-bot.git](https://github.com/hk843/file-organizer-bot.git)
