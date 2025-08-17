@@ -25,7 +25,7 @@ A Python-based application that automatically organizes files in a specified fol
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Hemanthkumar04/file-organizer-bot.git](https://github.com/Hemanthkumar04/file-organizer-bot.git)
+    git clone [https://github.com/hk843/file-organizer-bot.git](https://github.com/hk843/file-organizer-bot.git)
     cd file-organizer-bot
     ```
 2.  **Create and activate a virtual environment:**
@@ -41,3 +41,22 @@ A Python-based application that automatically organizes files in a specified fol
 4.  **Run the application:**
     ```bash
     python gui.py
+    ```
+
+### For Developers (Testing and Contributing)
+
+If you want to run the tests or make changes to the code, you need to install the development dependencies.
+
+1.  **Follow steps 1 and 2** from the "For Users" section.
+2.  **Install all dependencies**, including testing libraries:
+    ```bash
+    pip install -r requirements-dev.txt
+    ```
+3.  **Run the test suite** to ensure everything is working correctly:
+    ```bash
+    pytest
+    ```
+4.  **Run the application:**
+    ```bash
+    python gui.py
+    ```
