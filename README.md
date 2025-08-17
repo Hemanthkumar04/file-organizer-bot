@@ -23,7 +23,7 @@ A Python-based application that automatically organizes files in a specified fol
 
 ## 🚀 How to Run
 
-### For Developers (Testing and Contributing)
+### For Users
 
 1.  **Clone the repository:**
     ```bash
