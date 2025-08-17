@@ -2,8 +2,8 @@
 
 A Python-based application that automatically organizes files in a specified folder into categories. It features a full graphical user interface (GUI) for easy control and configuration.
 
-![Screenshot of the File Organizer GUI](docs/Screenshot_1.pngScreenshot_1.png)
-![Screenshot of the File Organizer GUI](docs/Screenshot_1.pngScreenshot_2.png)
+![Screenshot of the File Organizer GUI](docs/Screenshot_1.png)
+![Screenshot of the File Organizer GUI](docs/Screenshot_2.png)
 
 ---
 
