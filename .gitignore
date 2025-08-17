@@ -1,0 +1,18 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Log files
+logs/
+*.log
+
+# Test artifacts
+test_environment/
+
+# IDE specific files
+.vscode/
+.idea/
